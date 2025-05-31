@@ -1,0 +1,19 @@
+expo.dev:
+danielt1621@gmail.com
+daniel162108
+
+
+# applciation notes
+- Cannot scroll in the 'My reservations List'
+- When making a reservation, cannot change the date or time
+- No mesage indicating that the reservatino was successful
+- Should include a manager role (Edit restaurants, accept or cancel pending reservations)
+- Datetime picker not supported in web
+- When I try to load the app from the mobile, it never loads. Should be something with the network (on other laptop connected to other networks it works)
+
+
+- › Opening on Android...
+CommandError: Required property 'android.package' is not found in the project app.json. This is required to open the app.
+
+
+- Uncaught Eroor: java.io.IOException.Failed to download remote update

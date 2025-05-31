@@ -1,0 +1,41 @@
+-- Optional: Initial data for testing (remove or modify for production)
+INSERT INTO restaurants (name, location, description) VALUES
+('Restaurant 1', '123 Main St, Rodos', 'A fine dining experience.'),
+('Pasta Paradise', '456 Main St, Athens', 'Authentic Italian cuisine.'),
+('Burger Heaven', '789 Main St, Corfu', 'Best burgers in town!'),
+('Pizza Dream', '1011 Main St, Chania', 'Pizza!'),
+('Another Restaurant', '1213 Main St, Heraklion', 'Food Exists Here!');
+-- Example: CREATE DATABASE RestaurantReservationDB;
+-- Then: USE RestaurantReservationDB;
+-- Then: SOURCE database/schema.sql;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
